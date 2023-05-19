@@ -1,0 +1,12 @@
+{
+    "listData" : [
+        {"memberNm":"복지수", "summary": "식단기록을 보냈어요!", "regDt":"2022-12-17 18:00", "readYn":"N", "type":"D"},
+        {"memberNm":"최바람", "summary": "식단기록을 보냈어요!", "regDt":"2022-12-17 17:43", "readYn":"N", "type":"D"},
+        {"memberNm":"장미래", "summary": "운동기록을 보냈어요!", "regDt":"2022-12-17 11:02", "readYn":"Y", "type":"E"},
+        {"memberNm":"박현승", "summary": "저 예약을 변경하고 싶은데요.. 25일 괜…", "regDt":"2022-12-16 18:00", "readYn":"Y", "type":"Q"},
+        {"memberNm":"박치원", "summary": "운동기록을 보냈어요!", "regDt":"2022-12-16 17:43", "readYn":"Y", "type":"E"},   
+        {"memberNm":"조용훈", "summary": "식단기록을 보냈어요!", "regDt":"2022-12-16 10:30", "readYn":"Y", "type":"D"},
+        {"memberNm":"장아영", "summary": "운동기록을 보냈어요!", "regDt":"2022-12-16 10:12", "readYn":"Y", "type":"E"}
+     
+    ]
+}

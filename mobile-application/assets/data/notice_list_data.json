@@ -1,0 +1,26 @@
+{"listData":[
+
+
+    {"memberNm":"김민혁", "regDt": "2022-12-17 19:30:43Z", "type": "R", "booking": ""},
+    {"memberNm":"최바람", "regDt": "2022-12-17 16:00:43Z", "type": "B", "booking": "2022-12-20 11:00:43Z"},
+    {"memberNm":"박현승", "regDt": "2022-12-17 13:10:43Z", "type": "D", "booking": ""},
+    {"memberNm":"장미래", "regDt": "2022-12-17 12:45:43Z", "type": "E", "booking": ""},
+    {"memberNm":"박치원", "regDt": "2022-12-17 10:20:43Z", "type": "B", "booking": "2022-12-19 10:00:43Z"},
+    {"memberNm":"장미래", "regDt": "2022-12-16 20:10:43Z", "type": "D", "booking": ""},
+    {"memberNm":"김은솔", "regDt": "2022-12-16 19:40:43Z", "type": "D", "booking": ""},
+    {"memberNm":"이채영", "regDt": "2022-12-16 13:10:43Z", "type": "B", "booking": "2022-12-16 13:10:43Z"},
+    {"memberNm":"최바람", "regDt": "2022-12-16 10:55:43Z", "type": "B", "booking": "2022-12-17 18:00:43Z"},
+    {"memberNm":"김지은", "regDt": "2022-12-16 10:12:43Z", "type": "M", "booking": ""},
+    {"memberNm":"류은채", "regDt": "2022-12-15 22:30:43Z", "type": "B", "booking": "2022-12-18 10:00:43Z"},
+    {"memberNm":"김은솔", "regDt": "2022-12-15 13:20:43Z", "type": "R", "booking": ""},
+    {"memberNm":"최바람", "regDt": "2022-12-15 10:50:43Z", "type": "B", "booking": "2022-12-17 15:00:43Z"},
+    {"memberNm":"최바람", "regDt": "2022-12-14 23:10:43Z", "type": "D", "booking": ""},
+    {"memberNm":"장미래", "regDt": "2022-12-14 20:45:43Z", "type": "E", "booking": ""},
+    {"memberNm":"박현승", "regDt": "2022-12-14 17:45:43Z", "type": "E", "booking": ""},
+    {"memberNm":"박현승", "regDt": "2022-12-14 16:10:43Z", "type": "D", "booking": ""},
+    {"memberNm":"최한솔", "regDt": "2022-12-14 10:30:43Z", "type": "M", "booking": ""}
+  
+    
+   
+ 
+]}

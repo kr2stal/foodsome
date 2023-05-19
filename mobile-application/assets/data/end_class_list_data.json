@@ -1,0 +1,9 @@
+{
+    "listData" : [
+        {"classNm":"헬스왕초보반", "location": "구로", "exercise":"헬스", "totalCls":10, "doneCls": 10, "type" : "G", "image" : "CLS12", "hashtag" : "#주말 #왕초보 #시작 #다이어트 #운동", "favorit": "34"},
+        {"classNm":"금요직장인반", "location": "구로", "exercise":"헬스", "totalCls":10, "doneCls": 10, "type" : "P", "image" : "CLS2", "hashtag" : "#평일 #직장인 #시작 #벌크업 #헬스", "favorit": "10"},
+        {"classNm":"최코치 개인PT반", "location": "구로", "exercise":"헬스", "totalCls":20, "doneCls": 20, "type" : "P", "image" : "CLS3", "hashtag" : "#그룹 #주3일 #시작 #체력증진", "favorit": "21"},
+        {"classNm":"주말 스파르타반", "location": "구로", "exercise":"헬스", "totalCls":10, "doneCls": 10, "type" : "P", "image" : "CLS8", "hashtag" : "#초보 #개인 #pt #다이어트 #감량", "favorit": "426"}
+
+    ]
+}

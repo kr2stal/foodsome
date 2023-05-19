@@ -1,0 +1,11 @@
+{
+    "listData" : [
+        {"classNm":"스타터반", "location": "구로", "exercise":"헬스", "totalCls":4, "doneCls": 3, "type" : "G", "image" : "CLS10", "hashtag" : "#주말 #왕초보 #시작 #다이어트 #운동", "favorit": "34"},
+        {"classNm":"헬린이반", "location": "구로", "exercise":"헬스", "totalCls":6, "doneCls": 6, "type" : "P", "image" : "CLS5", "hashtag" : "#평일 #직장인 #시작 #벌크업 #헬스", "favorit": "10"},
+        {"classNm":"헬스 초보반", "location": "구로", "exercise":"헬스", "totalCls":1, "doneCls": 0, "type" : "P", "image" : "CLS3", "hashtag" : "#그룹 #주3일 #시작 #체력증진", "favorit": "21"},
+        {"classNm":"헬린탈출", "location": "구로", "exercise":"헬스", "totalCls":1, "doneCls": 1, "type" : "P", "image" : "CLS8", "hashtag" : "#초보 #개인 #pt #다이어트 #감량", "favorit": "426"},
+        {"classNm":"그룹피티", "location": "구로", "exercise":"헬스", "totalCls":6, "doneCls": 1, "type" : "G", "image" : "CLS1", "hashtag" : "#그룹pt #4인 #벌크업 #주2일 #헬스", "favorit": "210"},
+        {"classNm":"순환운동", "location": "구로", "exercise":"헬스", "totalCls":6, "doneCls": 2, "type" : "G", "image" : "CLS6", "hashtag" : "#주5일 #3개월 #그룹 #시작 #순환운동", "favorit": "30"}
+
+    ]
+}

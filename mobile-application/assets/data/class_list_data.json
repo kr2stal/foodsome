@@ -1,0 +1,13 @@
+{
+    "listData" : [
+        {"classNm":"헬스 왕초보 1반", "location": "구로", "exercise":"헬스", "totalCls":10, "doneCls": 8, "type" : "G", "image" : "CLS1"},
+        {"classNm":"바디프로필 1반", "location": "구로", "exercise":"헬스", "totalCls":10, "doneCls": 3, "type" : "P", "image" : "CLS2"},
+        {"classNm":"벌크업반", "location": "구로", "exercise":"헬스", "totalCls":10, "doneCls": 4, "type" : "P", "image" : "CLS7"},
+        {"classNm":"허리재활치료반", "location": "구로", "exercise":"헬스", "totalCls":10, "doneCls": 6, "type" : "P", "image" : "CLS11"},
+        {"classNm":"헬스 왕초보 2반", "location": "구로", "exercise":"헬스", "totalCls":10, "doneCls": 5, "type" : "G", "image" : "CLS4"},
+        {"classNm":"헬스 왕초보 3반", "location": "구로", "exercise":"헬스", "totalCls":10, "doneCls": 7, "type" : "G", "image" : "CLS6"},
+        {"classNm":"바디프로필 2반", "location": "구로", "exercise":"헬스", "totalCls":10, "doneCls": 9, "type" : "P", "image" : "CLS3"},
+        {"classNm":"바디프로필 3반", "location": "구로", "exercise":"헬스", "totalCls":10, "doneCls": 8, "type" : "P", "image" : "CLS8"}
+
+    ]
+}

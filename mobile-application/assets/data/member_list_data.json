@@ -1,0 +1,12 @@
+{
+    "listData" : [
+      {"memberNm" : "최바람", "classNm":"트레이너 준비반"},
+      {"memberNm" : "복지수", "classNm":"금용 직장인반"},
+      {"memberNm" : "장미래", "classNm":"월수금 오전 10시 그룹"},
+      {"memberNm" : "박현승", "classNm":"헬스 왕초보 퍼스널PT"},
+      {"memberNm" : "박치원", "classNm":"월수금 오전 10시 그룹"},
+      {"memberNm" : "이아림", "classNm":"월수금 오전 10시 그룹"},
+      {"memberNm" : "조용훈", "classNm":"헬스 왕초보 퍼스널PT"},
+      {"memberNm" : "장아영", "classNm":"헬스 왕초보 퍼스널PT"}
+    ]
+}
